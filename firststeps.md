@@ -58,4 +58,8 @@ ___
 
 
 ### Tester le projet via Xcode (simulateur iOS)
-*
+* Démarrer Xcode
+* Choisir un environnement de test (iPhone x / iPad x)
+* Ouvrir le terminal et se rendre dans le dossier du projet initialisé précedemment.
+* `react-native run-ios`
+
