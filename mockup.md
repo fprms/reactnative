@@ -1,0 +1,2 @@
+vid020
+* albums
